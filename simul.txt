@@ -1,0 +1,4 @@
+"AadClientId": "1d360726-b3fe-4d0e-af30-7f9f9dc08d2b",
+"AadSecret": "jFR8Q~1sJA1RzA38QbdMIPCPyph1lTcFWfc4ja3P",
+"AadTenantDomain": "dexterra.onmicrosoft.com",
+"AadTenantId": "b84417ec-8ec5-4f65-86e1-ef658591ab46"  
